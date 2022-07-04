@@ -3,7 +3,7 @@ import os
 import numpy as np
 
 ### Load data
-os.chdir("/Users/aayushmarishi/Desktop/Jamie/FS courses/Financial Management/Data processing/Documentation")
+os.chdir("/Data processing/Documentation")
 ratings = pd.read_csv('Ratings 2006-2015 original.csv')
 economic = pd.read_csv('Economic data.csv')
 
