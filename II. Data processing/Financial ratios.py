@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 ### Load data
-os.chdir("/Users/aayushmarishi/Desktop/Jamie/FS courses/Financial Management/Data processing/Documentation")
+os.chdir("/Data processing/Documentation")
 ratio = pd.read_csv('Financial ratios.csv')
 
 ### Drop unncessary columns
