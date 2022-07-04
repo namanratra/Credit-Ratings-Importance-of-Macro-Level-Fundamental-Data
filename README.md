@@ -14,6 +14,4 @@ II.	Data processing files consist of all related files, including dataset files 
 
 III.	Data modelling files consist of a Python script file (.py) used for panel data modelling and the exported csv files that contain results of univariate and multivariate analysis.
 
-IV.	Presentation slides file: the slides used in our group presentation
-
 Note: when running the .py files in the folder, the directory needs to be changed first in order for the code to run normally; all the needed data files for the code are in the folder.
