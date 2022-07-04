@@ -6,7 +6,7 @@ from linearmodels import PooledOLS
 import itertools
 
 ### Load data
-os.chdir("/Users/aayushmarishi/Desktop/Jamie/FS courses/Financial Management/Data processing/Documentation")
+os.chdir("/Data processing/Documentation")
 data_ori = pd.read_csv('Final rating dataset.csv', index_col = ['gvkey', 'year'])
 
 dataset = data_ori.drop(['Unnamed: 0', 'Company', 'state'], axis=1)
