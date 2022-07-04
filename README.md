@@ -1,4 +1,4 @@
-# Credit-Ratings-Importance-of-Macro-Level-Fundamental-Data
+# Credit-Ratings-Importance-of-Macro-Level-Fundamental-Data (Panel data analysis)
 
 All the related files in the folder are divided into:
 
