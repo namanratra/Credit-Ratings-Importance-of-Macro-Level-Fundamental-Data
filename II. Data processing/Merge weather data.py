@@ -3,7 +3,7 @@ import os
 import numpy as np
 
 # Load data
-os.chdir("/Users/aayushmarishi/Desktop/Jamie/FS courses/Financial Management/Data processing/Documentation")
+os.chdir("/Data processing/Documentation")
 data = pd.read_csv('Rating_fiscal_econ_ratio.csv')
 weather = pd.read_csv('Weather data 2006-2015.csv')
 
