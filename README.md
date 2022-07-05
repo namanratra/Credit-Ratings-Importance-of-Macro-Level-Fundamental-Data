@@ -10,7 +10,7 @@ Result: Measured the impact of macro-level factors with a decent value of R-squa
 
 All the related files in the folder are divided into:
 
-I.	Documentation and description files
+I.	Documentation and description files:
 
 a.	Detailed description of weather dataset.
 
